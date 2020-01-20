@@ -1,0 +1,49 @@
+.search-img {
+    width: 20px;
+    height: 20px;
+}
+
+.li-wrapper {
+    display: flex;
+}
+
+.menu-title {
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+}
+
+.menu-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-input {
+    width: 150px;
+    height: 20px;
+}
+
+.station-wrapper {
+}
+
+.date-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-input-date {
+    width: 150px;
+    height: 20px;
+}
+
+.time-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-input-time {
+    position: relative;
+    left: 13px;
+    width: 150px;
+    height: 20px;
+}

@@ -21,7 +21,7 @@
 }
 
 .menu-input {
-    width: 150px;
+    width: 125px;
     height: 20px;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .menu-input-date {
-    width: 150px;
+    width: 125px;
     height: 20px;
 }
 
@@ -46,6 +46,6 @@
 .menu-input-time {
     position: relative;
     left: 13px;
-    width: 150px;
+    width: 125px;
     height: 20px;
 }

@@ -7,7 +7,6 @@ function App() {
   return (
     <div className = "div-wrapper">
       <Menu/>
-      <Reservation/>
     </div>
   );
 }

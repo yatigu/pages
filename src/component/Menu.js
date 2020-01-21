@@ -38,6 +38,9 @@ const Menu = () => {
                             <input className = "menu-input-time" type = "time" name = "time"/>
                     </li>
                 </ul>
+                <div className = "but-wrapper">
+                    <input type = 'button' className = "res-but" value = "기차 조회하기"/>
+                </div>
             </fieldlist>
         </div>
     )

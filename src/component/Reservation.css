@@ -2,3 +2,10 @@
     display: flex;
     justify-content: center;
 }
+
+.res-but {
+    position: relative;
+    bottom: 40px;
+    width: 100px;
+    height: 40px;
+}
